@@ -1,0 +1,61 @@
+html{
+    font-size: 'Poppins' sans-serif;
+}
+
+body {
+    font-family: "Segoe UI", Roboto, Arial, sans-serif;
+    margin: 0; padding: 0;
+    background: #f4f4f9; color: #222;
+}
+.container {
+    max-width: 900px;
+    margin: 2rem auto;
+    background: white;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+}
+header {
+    border-bottom: 2px solid #eee;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+}
+h1 {
+    margin: 0;
+    font-size: 2rem;
+    color: #2c3e50;
+}
+.summary {
+    margin-bottom: 2rem;
+}
+section h2 {
+    font-size: 1.4rem;
+    color: #34495e;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.4rem;
+    margin-top: 2rem;
+}
+.experience {
+    margin: 1rem 0;
+}
+.job {
+    margin-bottom: 1.2rem;
+}
+.job h3 {
+    margin: 0;
+    font-size: 1.1rem;
+    color: #2c3e50;
+}
+.job p {
+    margin: 0.2rem 0 0.6rem;
+    color: #555;
+}
+.contact {
+    margin-top: 2rem;
+}
+.icons a {
+    margin-right: 1rem;
+    text-decoration: none;
+    color: #2c3e50;
+    font-weight: 500;
+}
